@@ -1,2 +1,6 @@
 # Miscellaneous-Items
-A repository of miscellaneous python powered items
+#Python CLI Calculator
+
+A simple command-line calculator written in Python.
+
+
